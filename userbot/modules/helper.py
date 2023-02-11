@@ -10,10 +10,10 @@ async def usit(event):
     await edit_or_reply(
         event,
         f"**ʜᴀʟʟᴏ, ᴋᴇɴᴀʟɪɴ ɢᴡ ɪʏᴀɴ ᴀsᴀʟ ᴊᴀᴡᴀ ʙᴀʀᴀᴛ. sᴀʟᴀᴍ ᴋᴇɴᴀʟ ʏᴀ.** \n"
-        f"✣ **sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ :** [Sharing Userbot](t.me/Publik_Virtual)\n"
-        f"✣ **ᴄʜᴀɴɴᴇʟ ɪʏᴀɴ :** [Lunatic0de](t.me/bang_iyan)\n"
-        f"✣ **ᴛᴇʟᴇɢʀᴀᴍ :** [Risman](@A_iyan)\n"
-        f"✣ **ʀᴇᴘᴏ :** [Man-Userbot](https://github.com/mrismanaziz/Man-Userbot)\n",
+        f"✇ **sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ :** [ᴘᴜʙʟɪᴋ ᴠɪʀᴛᴜᴀʟ](t.me/Publik_Virtual)\n"
+        f"✇ **ᴄʜᴀɴɴᴇʟ ɪʏᴀɴ :** [ᴄᴀᴛᴀᴛᴀɴ ɪʏᴀɴ](t.me/bang_iyan)\n"
+        f"✇ **ᴛᴇʟᴇɢʀᴀᴍ :** [ɪʏᴀɴ](t.me/A_iyan)\n"
+        f"✇ **ʀᴇᴘᴏ :** [Man-Userbot](https://github.com/mrismanaziz/Man-Userbot)\n",
     )
 
 
