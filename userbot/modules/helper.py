@@ -9,11 +9,11 @@ async def usit(event):
     me = await event.client.get_me()
     await edit_or_reply(
         event,
-        f"**Hai {me.first_name} Kalo Anda Tidak Tau Perintah Untuk Memerintah Ku Ketik** `.help` Atau Bisa Minta Bantuan Ke:\n"
-        f"✣ **Group Support :** [Sharing Userbot](t.me/Publik_Virtual)\n"
-        f"✣ **Channel Man :** [Lunatic0de](t.me/bang_iyan)\n"
-        f"✣ **Owner Repo :** [Risman](@A_iyan)\n"
-        f"✣ **Repo :** [Man-Userbot](https://github.com/mrismanaziz/Man-Userbot)\n",
+        f"**ʜᴀʟʟᴏ, ᴋᴇɴᴀʟɪɴ ɢᴡ ɪʏᴀɴ ᴀsᴀʟ ᴊᴀᴡᴀ ʙᴀʀᴀᴛ. sᴀʟᴀᴍ ᴋᴇɴᴀʟ ʏᴀ.** \n"
+        f"✣ **sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ :** [Sharing Userbot](t.me/Publik_Virtual)\n"
+        f"✣ **ᴄʜᴀɴɴᴇʟ ɪʏᴀɴ :** [Lunatic0de](t.me/bang_iyan)\n"
+        f"✣ **ᴛᴇʟᴇɢʀᴀᴍ :** [Risman](@A_iyan)\n"
+        f"✣ **ʀᴇᴘᴏ :** [Man-Userbot](https://github.com/mrismanaziz/Man-Userbot)\n",
     )
 
 
