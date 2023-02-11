@@ -66,9 +66,9 @@ async def _(ping):
     user = await ping.client.get_me()
     await xx.edit(
         f"**ᴀɪɴɢ✇**\n"
-        f"✇ **Pinger** - `%sms`\n"
-        f"✇ **Uptime -** `{uptime}` \n"
-        f"**✇Master :** [{user.first_name}](tg://user?id={user.id})" % (duration)
+        f"✇ **sɪɴʏᴀʟ** - `%sms`\n"
+        f"✇ **ᴀᴋᴛɪᴠ -** `{uptime}` \n"
+        f"**✇ᴍᴀsᴛᴇʀ :** [{user.first_name}](tg://user?id={user.id})" % (duration)
     )
 
 
