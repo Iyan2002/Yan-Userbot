@@ -30,8 +30,8 @@ async def _(e):
     elif t.endswith(("s", "h", "d", "m")):
         t = math.ceil((await extract_time(e, t)) - time.time())
     else:
-        t = 60
-    await edit_delete(e, f"**Memulai fake {act} selama** `{t}` **detik**", 3)
+        t = 9000
+    await edit_delete(e, f"**Memulai fake {act} selama** `{t}` **detik**", 2)
     async with e.client.action(e.chat_id, act):
         await asyncio.sleep(t)
 
