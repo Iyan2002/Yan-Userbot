@@ -10,9 +10,9 @@ async def usit(event):
     await edit_or_reply(
         event,
         f"**Hai {me.first_name} Kalo Anda Tidak Tau Perintah Untuk Memerintah Ku Ketik** `.help` Atau Bisa Minta Bantuan Ke:\n"
-        f"✣ **Group Support :** [Sharing Userbot](t.me/sharinguserbot)\n"
-        f"✣ **Channel Man :** [Lunatic0de](t.me/Lunatic0de)\n"
-        f"✣ **Owner Repo :** [Risman](t.me/mrismanaziz)\n"
+        f"✣ **Group Support :** [Sharing Userbot](t.me/Publik_Virtual)\n"
+        f"✣ **Channel Man :** [Lunatic0de](t.me/bang_iyan)\n"
+        f"✣ **Owner Repo :** [Risman](@A_iyan)\n"
         f"✣ **Repo :** [Man-Userbot](https://github.com/mrismanaziz/Man-Userbot)\n",
     )
 
