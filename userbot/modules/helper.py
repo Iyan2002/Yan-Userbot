@@ -12,10 +12,11 @@ async def usit(event):
         f"**ʜᴀʟʟᴏ, ᴋᴇɴᴀʟɪɴ ɢᴡ ɪʏᴀɴ ᴀsᴀʟ ᴊᴀᴡᴀ ʙᴀʀᴀᴛ sᴀʟᴀᴍ ᴋᴇɴᴀʟ ʏᴀ.**ᴊᴀɴɢᴀɴ ʟᴜᴘᴀ ᴊᴏɪɴ:\n"
         f"✇ **sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ :** [ᴘᴜʙʟɪᴋ ᴠɪʀᴛᴜᴀʟ](t.me/Publik_Virtual)\n"
         f"✇ **ᴄʜᴀɴɴᴇʟ ɪʏᴀɴ :** [ᴄᴀᴛᴀᴛᴀɴ ɪʏᴀɴ](t.me/bang_iyan)\n"
-        f"✇ **ᴛᴇʟᴇɢʀᴀᴍ :** [ɪʏᴀɴ](t.me/A_iyan)\n"
-        f"✇ **ᴄᴏᴘᴘʏ ʀᴇᴘᴏ :** [ᴜsᴇʀʙᴏᴛ_ɪʏᴀɴ](https://https://github.com/Bangiyan299/Userbot_Iyan)\n",
-        f"✇ **ᴏᴡɴᴇʀ ʀᴇᴘᴏ :** [ᴍᴀɴ-ᴜsᴇʀʙᴏᴛ](https://github.com/mrismanaziz/Man-Userbot)\n",
-    )
+        f"✇ **ᴛᴇʟᴇɢʀᴀᴍ : [ɪʏᴀɴ](t.me/A_iyan)\n",
+        )
+
+
+
 
 
 @man_cmd(pattern="listvar$")
